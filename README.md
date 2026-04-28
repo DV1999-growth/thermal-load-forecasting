@@ -1,5 +1,7 @@
 # Thermal Load Forecasting for Data Center Cooling (Chilled Water)
 
+A machine learning project that predicts chilled water cooling demand using time-series modeling, supporting efficient thermal management in AI data centers.
+
 ## Project Overview
 This project builds a time-series machine learning model to forecast cooling load using chilled water consumption, weather data, historical load patterns, and simulated IT/chip load.
 
@@ -89,10 +91,10 @@ Historical Features:
 
 ---
 
-### 4. Simulated IT Load
+### 4. Simulated AI Server (GPU/Chip) Heat Load
 
 ```
-Simulated using:
+Simulated AI server heat using:
 - recent load (lag_1)
 - 24-hour trend (rolling_mean24)
 - daytime activity (8 AM – 8 PM)
