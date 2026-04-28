@@ -1,0 +1,34 @@
+# =========================
+# DATA FILES (DO NOT UPLOAD)
+# =========================
+data/
+*.csv
+*.xlsx
+*.xls
+*.feather
+*.parquet
+*.zip
+
+# =========================
+# JUPYTER NOTEBOOK FILES
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# MODEL / OUTPUT FILES
+# =========================
+*.pkl
+*.joblib
+*.json
+
+# =========================
+# SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
