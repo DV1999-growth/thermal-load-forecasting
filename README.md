@@ -122,17 +122,13 @@ RMSE: 2569.738
 
 ## Results
 
-```
-- Model captures overall cooling demand trends
-- Predictions follow real patterns smoothly
+- Model captures overall cooling demand trends  
+- Predictions follow real patterns smoothly  
 - Sudden spikes are harder to predict (expected in real-world systems)
 
 ## 📊 Model Prediction vs Actual
 
 ![Thermal Load Prediction](result.png)
-```
-
----
 
 ## Feature Importance
 
