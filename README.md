@@ -147,7 +147,7 @@ Top Features:
 ```
 thermal-load-forecasting/
 │
-├── thermal_forecasting.ipynb
+├── Thermal_Load_Forecasting.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -158,10 +158,10 @@ thermal-load-forecasting/
 ## How to Run
 
 ```
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/DV1999-growth/thermal-load-forecasting.git
+cd thermal-load-forecasting
 pip install -r requirements.txt
-jupyter notebook thermal_forecasting.ipynb
+jupyter notebook Thermal_Load_Forecasting.ipynb
 ```
 
 ---
